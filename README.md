@@ -73,7 +73,7 @@ This project implements a machine learning model for image classification, devel
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/amansharmaofficial/P1-Image-Classification-Using-ML.git
+git clone https://github.com/amankumarswe/P1-Image-Classification-Using-ML.git
 ```
 
 2. Install dependencies:
